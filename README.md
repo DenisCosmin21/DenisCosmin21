@@ -10,7 +10,7 @@ Finished Highschool at "Liceul Teoretic Jean Louis Calderon Timisoara"
 * UPT DSP Labs (03.01.2024 - current)
 * Tutor for computer programming class at "Universitatea Politehnica Timisoara" (10.01.2024 - 01.10.2025)
 * Liga AC Labs (Forvia Hella lab) (04.01.2024 - 06.01.2024)
-* Itec 2024 - Embedded development brench (second place)
+* Itec 2024 - Embedded development branch (second place)
   
 # Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,wordpress,aws,bootstrap,laravel,mysql,c,cpp,cs,arduino,github,linux,matlab,java,postman,py)](https://skillicons.dev)
