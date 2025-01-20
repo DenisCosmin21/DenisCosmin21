@@ -19,6 +19,7 @@ Finished Highschool at "Liceul Teoretic Jean Louis Calderon Timisoara"
 # Idees used
 [![My Skills](https://skillicons.dev/icons?i=clion,phpstorm,pycharm,vscode,idea)](https://skillicons.dev)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisCosmin21)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **DenisCosmin21/DenisCosmin21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
